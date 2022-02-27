@@ -1,0 +1,804 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>At the Court at Whitehall 10 March 1675/6 By the King's Most Excellent Majesty and the Right Honourable the Lords of His Majesties most Honourable Privy Council.</title>
+            <title>Orders in Council. 1676-03-10</title>
+            <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1676</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 66 KB of XML-encoded text transcribed from 21 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84508</idno>
+            <idno type="STC">Wing E847A</idno>
+            <idno type="STC">ESTC R206015</idno>
+            <idno type="EEBO-CITATION">99897128</idno>
+            <idno type="PROQUEST">99897128</idno>
+            <idno type="VID">135067</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84508)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 135067)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2484:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>At the Court at Whitehall 10 March 1675/6 By the King's Most Excellent Majesty and the Right Honourable the Lords of His Majesties most Honourable Privy Council.</title>
+                  <title>Orders in Council. 1676-03-10</title>
+                  <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+                  <author>England and Wales. Privy Council. aut</author>
+               </titleStmt>
+               <extent>30, [2] p., [2] folded leaves of plates   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1676]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing (CD-ROM edition).</note>
+                  <note>Text begins: VVhereas in pursuance of an order of the eighth instant, the Lords Commissioners for Executing the Office of Lord high Admiral of England, did this day report to His Majesty in Council, their approbation of the several rules thereunto annexed, prepared by the Committee of this board for trade, for preventing the fraudulent procuring of passes; ..</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Charles II, 1660-1685 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb n="1" facs="tcp:135067:1"/>
+            <head>At the Court at WHITEHALL 10 <hi>MARCH</hi> 1675/6. By the KING'S Moſt Excellent Majeſty and the Right Honourable the Lords of His Ma<g ref="char:EOLhyphen"/>jeſties moſt Honourable Privy Council.</head>
+            <p>VVHEREAS in purſuance of an Order of the Eighth Inſtant, The Lords Com<g ref="char:EOLhyphen"/>miſſioners for Executing the Office of Lord high Admiral of <hi>England,</hi> did this day report to His Majeſty in Council, their Approbation of the ſeveral Rules thereunto annexed, prepared by the Com<g ref="char:EOLhyphen"/>mittee of this Board for Trade, for preventing the frau<g ref="char:EOLhyphen"/>dulent procuring of Paſſes; purſuant to the Treaties with <hi>Spain</hi> and the <hi>
+                  <g ref="char:V">Ʋ</g>nited Provinces,</hi> together with the Form of a Certificate to be ſigned by the Of<g ref="char:EOLhyphen"/>ficer appointed to ſurvey each Ship for which a Paſs ſhall be demanded; as alſo of the Oaths of the Maſter, and the Bond to be Entred into by them; which having been Read and Conſidered at the Board; His Majeſty was pleaſed to approve thereof; and did Order, That as well, the Right Honourable the Lord High Treaſurer of <hi>England,</hi> as the Lords Commiſſi<g ref="char:EOLhyphen"/>oners of the Admiralty; do reſpectively cauſe the ſaid Rules to be duly and punctually obſerved and put in Execution in all the Ports therein mentioned.</p>
+            <closer>
+               <signed>EDWARD WALKER.</signed>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb n="2" facs="tcp:135067:2"/>
+            <opener>
+               <salute>May it pleaſe your Majeſty,</salute>
+            </opener>
+            <p>
+               <hi>VVEE have in obedience to Your Majeſties Order in Council, had ſeveral Meetings about frame<g ref="char:EOLhyphen"/>ing of Rules for Paſſes, in purſuance of the Treaties with</hi> Spain <hi>and the</hi> United Provinces: <hi>And ha<g ref="char:EOLhyphen"/>ving alſo conſulted the Commiſsioners of the Cuſtoms therein, We do preſent Your Majeſty with the following</hi> Rules, <hi>as neceſſary and of great importance in this conjuncture for Your Majeſties Service.</hi>
+            </p>
+         </div>
+         <div type="regulations">
+            <head>RULES For Granting of Paſſes, In Purſuance of the Treaties With SPAIN and the UNITED PROVINCES.</head>
+            <p>1. THat no <hi>Paſſes</hi> be granted but in the Places Follow<g ref="char:EOLhyphen"/>ing, <hi>Viz.</hi>
+               <list>
+                  <item>
+                     <hi>LONDON,</hi>
+                  </item>
+                  <item>
+                     <hi>Dover.</hi>
+                  </item>
+                  <item>
+                     <hi>Rye.</hi>
+                  </item>
+                  <item>
+                     <hi>Chicheſter.</hi>
+                  </item>
+                  <item>
+                     <hi>Southampton.</hi>
+                  </item>
+                  <item>
+                     <hi>Poole.</hi>
+                  </item>
+                  <item>
+                     <hi>Weymouth.</hi>
+                  </item>
+                  <item>
+                     <hi>Lime</hi> Regis</item>
+                  <item>
+                     <hi>Exon.</hi>
+                  </item>
+                  <item>
+                     <hi>Dartmouth.</hi>
+                  </item>
+                  <item>
+                     <hi>Plymouth.</hi>
+                  </item>
+                  <item>
+                     <hi>Fowy.</hi>
+                  </item>
+                  <item>
+                     <hi>Falmouth.</hi>
+                  </item>
+                  <item>
+                     <hi>Penzance.</hi>
+                  </item>
+                  <item>
+                     <hi>Barnſtaple.</hi>
+                  </item>
+                  <item>
+                     <hi>Bridgwater.</hi>
+                  </item>
+                  <item>
+                     <hi>Mine-Head.</hi>
+                  </item>
+                  <item>
+                     <hi>Briſtol</hi> For the Ports of <hi>Briſtol</hi> and <hi>Glouceſter.</hi>
+                  </item>
+                  <item>
+                     <hi>Swanzey.</hi>
+                  </item>
+                  <item>
+                     <hi>Milford.</hi>
+                  </item>
+                  <item>
+                     <hi>Colcheſter.</hi>
+                  </item>
+                  <item>
+                     <hi>Ipſwitch.</hi>
+                  </item>
+                  <item>
+                     <hi>Yarmouth.</hi>
+                  </item>
+                  <item>
+                     <hi>Lynn</hi> Regis.</item>
+                  <item>
+                     <hi>Boſton.</hi>
+                  </item>
+                  <item>
+                     <hi>Hull.</hi>
+                  </item>
+                  <item>
+                     <hi>Stockton.</hi>
+                  </item>
+                  <item>
+                     <hi>Sunderland.</hi>
+                  </item>
+                  <item>
+                     <hi>Newcaſtle.</hi>
+                  </item>
+                  <item>
+                     <hi>Berwick.</hi>
+                  </item>
+                  <item>
+                     <hi>Whitehaven.</hi>
+                  </item>
+                  <item>
+                     <hi>Lancaſter.</hi>
+                  </item>
+                  <item>
+                     <hi>Leverpool.</hi>
+                  </item>
+                  <item>
+                     <hi>Cheſter.</hi>
+                  </item>
+                  <item>
+                     <hi>Beaumaris.</hi>
+                  </item>
+               </list>
+            </p>
+            <pb n="3" facs="tcp:135067:2"/>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="II"/> 2. That in the Port of <hi>London</hi> Paſſes be granted onely by the Lord High Admiral or the Lords Commiſſioners for executing the Office of Lord High Admiral, or the Commiſſioners of the Cuſtoms, and in the <hi>Out-Ports</hi> by the Chief Magiſtrate of the ſaid <hi>Out-Ports</hi> reſpectively, with the conſent of the Collector, or other Chief Officer of the Cuſtoms upon the place for the time being, deputed by the Commiſſioners; which conſent is to be declared by the ſaid Officer under his hand, upon the body of the Certificate, provided for, in the Article following.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="III"/> That no Paſs be granted to any Ship or Veſſel in the Port of <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> until ſhe have been viewed, either by the Surveyor of the Act of Navigation, or his Deputy, or ſome Officer of the Navy eſpecially appointed thereto by the Lord High Admiral, or Lords Commiſſioners of the Admiralty, or by the Surveyors of the Com<g ref="char:EOLhyphen"/>miſſioners of His Majeſties Cuſtoms aforeſaid, and a Certificate to be produced from the ſaid Officers reſpectively, to the perſons granting the ſaid Paſſes, expreſſing the Name, Built, and Bur<g ref="char:EOLhyphen"/>then of the ſaid Veſſel; and anſwering diſtinctly to each other of the ſaid ſeveral Heads contained in the Form of the ſaid Cer<g ref="char:EOLhyphen"/>tificate hereunto annexed: And that no Paſs be granted in any other of the Ports or Places before-mentioned, until ſuch Ship or Veſſel ſhall have been viewed by the Surveyor of the Act of Navigation, or his Deputy, or the ſaid Commiſſioners their Surveyors, in ſuch Port where there is a Surveyor; and where there is no Surveyor, by ſuch other Officer of the ſaid Commiſ<g ref="char:EOLhyphen"/>ſioners, as ſhall be appointed by the Collector, or Chief Offi<g ref="char:EOLhyphen"/>cer of the Cuſtoms, and like Certificate made concerning ſuch Ship or Veſſel.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="IV"/> No Paſs to be granted, if by the ſaid Certificate it doth not appear, that ſhe is in the Port, where the ſaid Paſs is demanded, or ſome Member or Creek thereof, at the time of demanding ſuch Paſs.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="V"/> No Paſs to be granted unleſs by ſuch Certificate it alſo appear that the Maſter and two Thirds of the Mariners are of His Ma<g ref="char:EOLhyphen"/>jeſties Subjects (except to ſuch Ships as are bound to <hi>Greenland</hi>) in which caſe one moyety at leaſt of the Mariners to be Engliſh. </p>
+            <pb n="4" facs="tcp:135067:3"/>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="VI"/> That no Foreigner, who is Maſter of a Ship, ſhall have a Paſs, unleſs he be Naturalized, or be a Denizen, and thoſe Maſters of Ships who pretend to Naturalization or Denization, to have no Paſſes until they make proof, that their real and conſtant reſidence is in <hi>England,</hi> and that their Families are alſo here, if any they have;
+<note place="margin">
+                  <hi>Mem.</hi> That the four Fiſher Boats lately made free, are to be except<g ref="char:EOLhyphen"/>ed.</note> and as to ſuch Maſters of Ships as pretend to Denization, that no Paſs be granted unto them, unleſs it ſhall appear that their real and conſtant reſidence with their Families hath been in <hi>England</hi> for the ſpace of one year before the demanding of ſuch Paſs.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="VII"/> That no Paſs be granted until the Regiſter of the place, to which each Ship belongs, ſhall have been carefully examined, whether a former Paſs hath been granted to ſuch Ship, and in caſe any former Paſs hath been granted, no Paſs to be granted until the former Paſs be delivered up.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="VIII"/> That every Maſter of a Ship before he have a Paſs granted him, do give Bond with one good Surety in his Majeſties Name, if in the Port of <hi>London,</hi> to the Collector Outward; if in the <hi>Out-Ports,</hi> to the Officer of the Cuſtoms that is to conſent to the Paſs, of 100 <hi>l.</hi> penalty, if the Ship appear to be above 100 Tons, for the return and redelivery of his Paſs, within the time to be limited in his Bond, to the ſaid Officer of the Cuſtoms: and of 50 <hi>l.</hi> pe<g ref="char:EOLhyphen"/>nalty if his Ship be under 100 Tons, unleſs in caſe of Capture, or loſs of his Ship; which limitation of time to be made according as is directed in the following Rule, <hi>No.</hi> 15.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="IX"/> That before the granting of any Paſs, the Maſter of every Ship or Veſſel for which a Paſs is demanded, ſhall make Oath in the preſence of thoſe who are to grant the ſaid Paſſes, That ſuch Ship or Veſſel doth belong to the inhabitants of <gap reason="blank" resp="#OXF"/> 
+               <gap reason="blank" resp="#OXF"/> within His Majeſties Dominions, and that <gap reason="blank" resp="#OXF"/> are Proprietors thereof, naming as many of them as he knows, and their reſpe<g ref="char:EOLhyphen"/>ctive ſhares and places of abode, and to what place ſuch Ship doth belong, and whether ſhe had any former Paſs; and that he is the ſole Maſter appointed for the Voyage, and knows no other: And in caſe ſhe be a Foreign built Ship, declaring the time when ſhe was bought, or became Engliſh Propriety; and that the ſhip for which a Certificate is returned, bearing date <gap reason="blank" resp="#OXF"/>
+               <pb n="5" facs="tcp:135067:3"/> 
+               <gap reason="blank" resp="#OXF"/> returned by <gap reason="blank" resp="#OXF"/> is the ſhip, concerning which this Oath is by him made; and that the Name by which he calls her, is the true Name, and that he knows of no other Name that ſhe hath or hath had, or if ſhe hath had, to declare it.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="X"/> And in caſe a Paſs ſhall be demanded for any Foreign built ſhip, bought ſince <hi>January</hi> the Firſt 1673, and not made free, that be<g ref="char:EOLhyphen"/>fore the granting thereof not onely the Maſter but the Proprietors of ſuch ſhip, or as many of them as may be had, do alſo make Oath of their propriety in ſuch ſhip, and what ſhares they reſpectively have, and when bought, and for what ſumme of money, and who are the reſt of the Owners, and their places of Abode: And in caſe a Paſs be demanded for any ſuch ſhip in any of the <hi>Out-Ports,</hi> that when ſuch Oath ſhall be taken, no Paſs to be yet grant<g ref="char:EOLhyphen"/>ed, until the ſaid Oath and the Oath of the Maſter and the Certi<g ref="char:EOLhyphen"/>ficate of the Officer of the Cuſtoms that ſhall have ſurveyed ſuch ſhip, ſhall have been tranſmitted by the Officer of the Cuſtoms that ought to conſent to ſuch Paſs, to the Commiſſioners of the <hi>Cuſtoms</hi> in <hi>London,</hi> and their approbation had thereupon: And if any of the Proprietors of ſuch Foreign built ſhip ſhall appear to be Foreigners, that the Commiſſioners of the <hi>Cuſtoms</hi> do not grant any Paſs to ſuch ſhip in <hi>London,</hi> nor give their approbation for the granting of any ſuch Paſs in the <hi>Out-Ports,</hi> until full and clear ſa<g ref="char:EOLhyphen"/>tisfaction be given to them, that they are truly inhabitants, and not ſojourners come over, onely to ſerve the turn of Foreigners beyond Sea, during the preſent Wars abroad: And moreover that, Whether ſuch propriety is claimed by Foreigners or Natives, due Examination is to be had of the quality, value, and worth of ſuch perſons, and of their probability of having ſuch propriety, before ſuch Paſs or Approbation be granted.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="XI"/> That no Paſs be granted in any Port or Place, which by this Regulation is authorized to grant Paſſes, but onely to ſhips belonging to ſome Port or Place in <hi>England, Wales,</hi> or Town of <hi>Berwick.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="XII"/> And ſo far as conveniently may be, That no Paſs be granted to any ſhip belonging to <hi>England, Wales,</hi> or <hi>Berwick,</hi> but in ſome place within the Port to which ſhe belongs, which by this
+<pb n="6" facs="tcp:135067:4"/>Regulation has power to grant Paſſes; but if it ſhall ſo happen that a ſhip being in ſome other Port than the Port to which ſhe be<g ref="char:EOLhyphen"/>longs, and which cannot conveniently repair to the ſame, ſhall have need of a <hi>Paſs,</hi> and that the Maſter ſhall demand the ſame from the perſons by this Regulation authorized in ſuch Port or place to grant <hi>Paſſes,</hi> that if ſuch ſhip be an Engliſh built ſhip, or made free or bought before <hi>January</hi> the Firſt 1673, though not made free, if ſhe belong to the Port of <hi>London,</hi> that upon a Certificate from the Commiſſioners of the Cuſtoms, teſtifying that ſhe belongs to that Port, and whether ſuch ſhip hath had a former <hi>Paſs</hi> or not; (and if ſhe belong to the <hi>Out-Ports,</hi> that upon a Cer<g ref="char:EOLhyphen"/>tificate from the Chief Magiſtrate of the place within the Port to which ſhe belongs; which by this Regulation is authorized to grant <hi>Paſſes,</hi> atteſted by the Chief Officer of the Cuſtoms, there depu<g ref="char:EOLhyphen"/>ted by the Commiſſioners, teſtifying that ſhe belongs to ſuch place, and whether ſuch Ship hath had a former <hi>Paſs</hi> or not:) That a <hi>Paſs</hi> may be thereupon granted to her by the Commiſſioners of the <hi>Cu<g ref="char:EOLhyphen"/>ſtoms,</hi> if ſhe be in the Port of <hi>London,</hi> and if ſhe be in any <hi>Out-Port,</hi> Member, or Creek thereof, by the Chief Magiſtrate of the place in the Port where ſhe is, that is authorized to grant <hi>Paſſes.</hi> But in caſe ſuch Ship be a Foreign built Ship, bought after <hi>January</hi> the Firſt 1673, and not made free, that the perſon or perſons ſo authorized, ſhall not grant any <hi>Paſs</hi> to ſuch Maſter, until the Officer of the <hi>Cuſtoms,</hi> who is to conſent to ſuch <hi>Paſs,</hi> ſhall have ſent a Copy of the Oath of ſuch Maſter, to the Commiſſioners of the Cuſtoms, who are thereupon to write to the Collector or other Chief Officer in that Port, to which (or ſome Member whereof) the ſaid Ship is pretended to belong; and the ſaid Officer is thereup<g ref="char:EOLhyphen"/>on to take care that the pretended proprietors of ſuch Ship, who ſhall dwell there, be examined upon Oath concerning their pro<g ref="char:EOLhyphen"/>priety, and the time of their buying ſuch Ship, and for what ſumme of money, and that he do return ſuch Examinations to the Commiſſioners of the Cuſtoms, together with his knowledge or be<g ref="char:EOLhyphen"/>lief concerning ſuch Ship, being reputed or known to be a Ship be<g ref="char:EOLhyphen"/>longing to ſuch Port or Member thereof, and whether ſhe had any former Paſs or not; all which the Commiſſioners of the Cuſtoms ſhall tranſmit to the Officer of the Cuſtoms in the Port or place where ſuch <hi>Paſs</hi> is demanded, and the ſame ſhall be of like effect, as if the Ship had been in her proper Port, and demanded her <hi>Paſs</hi> there. And if in any of the Caſes above-mentioned in this Article, a <hi>Paſs</hi> ſhall be granted to any Ship out of her proper Port, the ſame to be forthwith notified by the Officer of the <hi>Cu<g ref="char:EOLhyphen"/>ſtoms,</hi> who conſented to the granting thereof, to the <hi>Commiſſio<g ref="char:EOLhyphen"/>ners</hi>
+               <pb n="7" facs="tcp:135067:4"/>of the <hi>Cuſtoms,</hi> and the ſaid <hi>Commiſſioners</hi> ſhall notifie the ſame to the Chief Officer of the <hi>Cuſtoms</hi> in ſuch place in the <hi>Port</hi> to which ſhe belongs, as is authorized to give and regiſter <hi>Paſſes;</hi> whereby the ſame may be entred in the Regiſtry, for the prevent<g ref="char:EOLhyphen"/>ing of granting double <hi>Paſſes.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="XIII"/> That the Form of <hi>Paſſes</hi> hereunto annexed, printed upon Parchment with Blanks, be made uſe of here in <hi>London,</hi> and that the like <hi>Paſſes</hi> with Blanks, printed upon the ſame ſize of Parch<g ref="char:EOLhyphen"/>ment, be ſent to all places in the <hi>Out-Ports,</hi> authorized to grant <hi>Paſſes,</hi> and that thoſe and none other, be made uſe of, whereby they may be diſtinguiſhed from all former <hi>Paſſes.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="XIV"/> In like manner, That the printed Forms of the Oaths for the Maſters and proprietors, and of the Certificates to be made upon viewing the ſhips, and alſo of the Bonds to be entred into by the Maſters, upon the taking out of <hi>Paſſes</hi> (all which are hereunto an<g ref="char:EOLhyphen"/>nexed) be made uſe of in <hi>London,</hi> and in all places in the <hi>Out-Ports,</hi> which are hereby authorized to grant <hi>Paſſes.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="XV"/> All Ships entring out for the <hi>Eaſt</hi> or <hi>Weſt-Indies,</hi> or to any part in <hi>Africa</hi> beyond <hi>Cape-Verde,</hi> or to any part of the <hi>Mediterranean-Sea,</hi> their Paſſes to determine upon their Return and being unla<g ref="char:EOLhyphen"/>den in ſome Port of <hi>England</hi> or <hi>Wales,</hi> or Town of <hi>Berwick upon Tweed:</hi> And for that end, to be obliged in the Bonds they are to give, upon taking out of ſuch <hi>Paſſes,</hi> That upon their return, and being unladen, the Maſter of ſuch Ship ſhall deliver up their Old <hi>Paſſes:</hi> And that <hi>Paſſes</hi> for Ships entring for all other parts, be to continue for one year onely, and the Bonds to be filled up accord<g ref="char:EOLhyphen"/>ingly, with a ſaving to Capture and Shipwrack, as before directed.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="XVI"/> That a perfect Regiſter be kept by the Lord Admiral, or Lords Commiſſioners for Executing the Office of Lord High Admiral, the Commiſſioners of the Cuſtoms, and the Magiſtrate in each of the <hi>Out-Ports,</hi> by whom the <hi>Paſſes</hi> before-mentioned ſhall be granted, of every <hi>Paſs</hi> which ſhall be by them reſpectively ſo granted; as alſo by the Collector, or other Chief Officer of the Cuſtoms, in each of the ſaid <hi>Out-Ports,</hi> of every <hi>Paſs</hi> whereto the conſent of the ſaid Collector or Officer ſhall be given, in purſuance of the ſe<g ref="char:EOLhyphen"/>cond
+<pb n="8" facs="tcp:135067:5"/>Article: Which Regiſters are to be ſtrictly kept, and to ex<g ref="char:EOLhyphen"/>preſs all the particulars in the Certificate of the Officer that viewed ſuch Ship, and in the Oath of the Maſter: And Copies of what ſhall be ſo kept in the <hi>Out-Ports,</hi> ſhall be Monthly tranſmitted from the aforeſaid Collector or Chief Officer there, to the Commiſſioners of the Cuſtoms in the Port of <hi>London:</hi> And the ſaid Commiſſio<g ref="char:EOLhyphen"/>ners are Monthly to ſend Tranſcripts, as well of the Regiſter kept by themſelves, as of what ſhall be teturned to them from the <hi>Out-Ports,</hi> to the Lord Admiral, or Lords Commiſſioners of the Admi<g ref="char:EOLhyphen"/>ralty, in order to the making up of One entire Regiſter and Al<g ref="char:EOLhyphen"/>phabet, for the ready informing His Majeſty and Their Lordſhips in all Matters relating thereto, or wherein His Majeſties Service may require Information from the ſame.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="XVII"/> That care be taken for the giving the like neceſſary Inſtructions for regulating the granting Paſſes in <hi>Scotland</hi> and <hi>Ireland, Tangier,</hi> and other His Majeſties Plantations, the Iſlands of <hi>Jerſey</hi> and <hi>Guernſey,</hi> and the <hi>Eaſt-Indies;</hi> and the keeping the like Regiſter of the ſame, with Copies thereof to be tranſmitted to the Secretary of the Admi<g ref="char:EOLhyphen"/>ralty of <hi>England</hi> Quarterly, or where that cannot be, as often as op<g ref="char:EOLhyphen"/>portunity of Conveyance ſhall happen for the ſame.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="XVIII"/> And laſtly, That the Order of the One and Twentieth of <hi>July</hi> laſt paſt; touching Paſſes, be ſuperſeded and annulled.</p>
+            <closer>
+               <dateline>
+                  <hi>Council-Chamber,</hi> 
+                  <date>6th. <hi>of</hi> March, 1675/6.</date>
+               </dateline>
+               <signed>All which is moſt humbly ſubmitted,
+<list>
+                     <item>
+                        <hi>Danby. Craven.</hi>
+                     </item>
+                     <item>
+                        <hi>Bridgwater.</hi> Secretary <hi>Coventry.</hi>
+                     </item>
+                     <item>Mr. Secretary <hi>Williamſon.</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Southwell.</hi>
+                     </item>
+                  </list>
+               </signed>
+               <signed>A True Copy. <hi>John Nicholas.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="sample_bond">
+            <pb n="9" facs="tcp:135067:5"/>
+            <head>FORM OF THE BOND To be given by Maſters of SHIPS, before any PASS be granted to them.</head>
+            <p>
+               <hi>NOverint univerſi per praeſentes, <gap reason="blank" resp="#OXF"/> teneri &amp; firmiter obligari Sereniſſimo Domino noſtro CAROLO Secund' Regi, in <gap reason="blank" resp="#OXF"/> Libris bonae &amp; legalis Monet'</hi> Angl' <hi>ſolvend' eidem Domino Regi Haered' vel Succeſſoribus ſuis: Ad quam quidem ſolucon' bene &amp; fideliter faciend', Oblig' <gap reason="blank" resp="#OXF"/> Haered', Executor', &amp; Adminiſtrat' <gap reason="blank" resp="#OXF"/> firmiter per prae<g ref="char:EOLhyphen"/>ſentes. Sigill' <gap reason="blank" resp="#OXF"/> Sigillat'. Dat' <gap reason="blank" resp="#OXF"/> die <gap reason="blank" resp="#OXF"/> Anno Regni <gap reason="blank" resp="#OXF"/> dicti Dom' noſtri</hi> Angliae, Scotiae, Franciae, <hi>&amp;</hi> Hiberniae <hi>Regis, Fidei Defenſor', &amp;c. <gap reason="blank" resp="#OXF"/> Anno<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> Dom'</hi> 167</p>
+            <p>THE Condition of this Obligation is ſuch, That whereas the above-bound <gap reason="blank" resp="#OXF"/> hath received a Paſs from <gap reason="blank" resp="#OXF"/> for the good Ship called the <gap reason="blank" resp="#OXF"/> of <gap reason="blank" resp="#OXF"/> and whereof he the ſaid <gap reason="blank" resp="#OXF"/> is now Maſter, bearing date the <gap reason="blank" resp="#OXF"/> day of <gap reason="blank" resp="#OXF"/> Now if the ſaid <gap reason="blank" resp="#OXF"/> ſhall deli<g ref="char:EOLhyphen"/>ver, or cauſe to be delivered up the ſaid Paſs to the ſaid <gap reason="blank" resp="#OXF"/> 
+               <gap reason="blank" resp="#OXF"/> unleſs the ſaid Ship ſhall happen to be taken by Pyrats, or be caſt away and Shipwrackt, then this Obligation ſhall be void and of none effect; or elſe ſhall remain in full force and virtue.</p>
+            <closer>
+               <signed>Sealed and delivered in the preſence of</signed>
+            </closer>
+         </div>
+         <div type="sample_oath">
+            <pb n="10" facs="tcp:135067:6"/>
+            <head>FORM OF THE Oath of the Maſter, For a Foreign-built SHIP, made Free.</head>
+            <p> 
+               <gap reason="blank" resp="#OXF"/> of <gap reason="blank" resp="#OXF"/> Mariner, and Maſter of the <gap reason="blank" resp="#OXF"/> of <gap reason="blank" resp="#OXF"/> called the <gap reason="blank" resp="#OXF"/> of <gap reason="blank" resp="#OXF"/> now at Anchor in the <gap reason="blank" resp="#OXF"/> maketh Oath in the preſence of <gap reason="blank" resp="#OXF"/> That the ſaid <gap reason="blank" resp="#OXF"/> called the <gap reason="blank" resp="#OXF"/> Burthen <gap reason="blank" resp="#OXF"/> Tuns more or leſs, mounted with <gap reason="blank" resp="#OXF"/> Guns, and Na<g ref="char:EOLhyphen"/>vigated with <gap reason="blank" resp="#OXF"/> Men, whereof <gap reason="blank" resp="#OXF"/> are His Majeſties Subjects, and <gap reason="blank" resp="#OXF"/> Strangers, bound for <gap reason="blank" resp="#OXF"/> and whereof he is appointed ſole Maſter for the ſaid Voyage, and knows of no other Maſter, is a Foreign-built Veſſel made free, and doth wholly belong to the Inhabitants of <gap reason="blank" resp="#OXF"/> in the Dominions of His Majeſty of <hi>Great Britain;</hi> and that the ſaid Veſ<g ref="char:EOLhyphen"/>ſel is the ſame which hath been viewed by <gap reason="blank" resp="#OXF"/> and for which he hath made a Certificate bearing date the <gap reason="blank" resp="#OXF"/> day of <gap reason="blank" resp="#OXF"/> And that he knows of no Name the ſaid Veſſel hath been,
+<note place="margin">If he knows of any Name, let it be here expreſſed, as the Maſter ſhall declare.</note> or is called or known by, other than the Name above-mentioned,
+<note place="margin">If ſhe had a<g ref="char:EOLhyphen"/>ny, declaring what is be<g ref="char:EOLhyphen"/>come of it.</note> or <gap reason="blank" resp="#OXF"/> And that he knows of no other Paſs the ſaid Veſſel hath had <gap reason="blank" resp="#OXF"/> And that the ſaid Veſſel became <hi>Engliſh</hi> Propriety by day of <gap reason="blank" resp="#OXF"/> Dated this <gap reason="blank" resp="#OXF"/> day of <gap reason="blank" resp="#OXF"/>
+               <note place="margin">Sale, or Con<g ref="char:EOLhyphen"/>demnation in the Court of Admiralty.</note> 
+               <gap reason="blank" resp="#OXF"/> 
+            </p>
+            <p>
+               <hi>Jurat,</hi> That the Certificate of the Freedom of this Veſſel, produced to the Officer of the Navigation, who ſurveyed the ſame, and the Contents aboveſaid, are true to the beſt of his knowledge.</p>
+            <p>
+               <hi>Coram, &amp;c.</hi>
+            </p>
+         </div>
+         <div type="sample_certificate">
+            <pb n="11" facs="tcp:135067:6"/>
+            <head>FORM OF THE CERTIFICATE Of the Officer for the Navigation, for a Forreing<g ref="char:EOLhyphen"/>built SHIP, made Free.</head>
+            <p>IN purſuance of His Majeſties Order in Council,
+<note place="margin">Port of</note> of the Tenth of <hi>March,</hi> 1675/6. I under-written do certifie, That the <gap reason="blank" resp="#OXF"/> of <gap reason="blank" resp="#OXF"/> is a Forreign-built <gap reason="blank" resp="#OXF"/> of the Burthen of <gap reason="blank" resp="#OXF"/> Tuns, and <gap reason="blank" resp="#OXF"/> Guns, now lying at Anchor <gap reason="blank" resp="#OXF"/> within the Port of <gap reason="blank" resp="#OXF"/> bound for <gap reason="blank" resp="#OXF"/> whereof <gap reason="blank" resp="#OXF"/> is Maſter, and is Navigated with <gap reason="blank" resp="#OXF"/> Men, whereof <gap reason="blank" resp="#OXF"/> are His Majeſties Subjects, and <gap reason="blank" resp="#OXF"/> Strangers: And appeareth to be made free, as by the Certificate of His Majeſties Surveyor for the Act of Navigation, dated the <gap reason="blank" resp="#OXF"/> day of <gap reason="blank" resp="#OXF"/> 
+               <hi>Anno Dom.</hi> 
+               <gap reason="blank" resp="#OXF"/> and produced to me. Dated this <gap reason="blank" resp="#OXF"/> day of <gap reason="blank" resp="#OXF"/> 
+               <hi>Anno Dom.</hi>
+               <note place="margin">If this Certi<g ref="char:EOLhyphen"/>ficate be made in any of the Out-Ports, then this fol<g ref="char:EOLhyphen"/>lowing Certi<g ref="char:EOLhyphen"/>ficate is to be upon the Bo<g ref="char:EOLhyphen"/>dy of it.</note>
+            </p>
+            <p>I <gap reason="blank" resp="#OXF"/> Collector or Chief Officer of His Majeſties Cuſtoms in the Port aboveſaid, do hereby declare my Con<g ref="char:EOLhyphen"/>ſent, under my Hand, that a Paſs be granted for the aboveſaid Ship.</p>
+         </div>
+         <div type="sample_oath">
+            <pb n="12" facs="tcp:135067:7"/>
+            <head>FORM OF THE Oath of the Maſter, FOR AN ENGLISH-BUILT SHIP.</head>
+            <p> 
+               <gap reason="blank" resp="#OXF"/> of <gap reason="blank" resp="#OXF"/> Mariner, and Maſter of the <gap reason="blank" resp="#OXF"/> called the <gap reason="blank" resp="#OXF"/> of <gap reason="blank" resp="#OXF"/> now at Anchor <gap reason="blank" resp="#OXF"/> in <gap reason="blank" resp="#OXF"/> making Oath in the preſence of <gap reason="blank" resp="#OXF"/> That the ſaid <gap reason="blank" resp="#OXF"/> called the <gap reason="blank" resp="#OXF"/> of <gap reason="blank" resp="#OXF"/> Burthen <gap reason="blank" resp="#OXF"/> Tons more or leſs, mounted with <gap reason="blank" resp="#OXF"/> Guns, and Naviga<g ref="char:EOLhyphen"/>ted with <gap reason="blank" resp="#OXF"/> Men, whereof <gap reason="blank" resp="#OXF"/> are His Majeſties Subjects, and <gap reason="blank" resp="#OXF"/> Strangers, bound for <gap reason="blank" resp="#OXF"/> and whereof he is appointed the ſole Maſter for the ſaid Voyage (and knows of no other Maſter) is an <hi>Engliſh</hi>-built <gap reason="blank" resp="#OXF"/> and doth belong to the Inhabitants of <gap reason="blank" resp="#OXF"/> in the Dominions of His Majeſty of <hi>Great Britain;</hi> and that the ſaid Ship is the ſame <gap reason="blank" resp="#OXF"/> which hath been ſurveyed by <gap reason="blank" resp="#OXF"/> and for which he hath made a Cer<g ref="char:EOLhyphen"/>tificate, bearing date the <gap reason="blank" resp="#OXF"/> day of <gap reason="blank" resp="#OXF"/> 
+               <hi>Anno Dom.</hi>
+               <note place="margin">Or if he knows of any other Name ſhe hath, or hath had, ex<g ref="char:EOLhyphen"/>preſſing or declaring the ſame.</note> 
+               <gap reason="blank" resp="#OXF"/> And he knows of no Name the ſaid <gap reason="blank" resp="#OXF"/> hath been or is called by, other than the Name above-mentioned <gap reason="blank" resp="#OXF"/> And that he knows of no other Paſs the ſaid <gap reason="blank" resp="#OXF"/> hath had <gap reason="blank" resp="#OXF"/>
+               <note place="margin">Or if ſhe had any former Paſs, decla<g ref="char:EOLhyphen"/>ring what is become of it.</note>
+            </p>
+            <p>
+               <hi>Jurat,</hi> That the Contents aboveſaid are true to the beſt of <gap reason="blank" resp="#OXF"/> his knowledge.</p>
+            <p>
+               <hi>Coram, &amp;c.</hi>
+            </p>
+         </div>
+         <div type="sample_certificate">
+            <pb n="13" facs="tcp:135067:7"/>
+            <head>FORM OF THE CERTIFICATE Of the Officer for the Navigation for an Engliſh built SHIP.</head>
+            <p>IN purſuance of His Majeſtie's Order in Council of the Tenth of <hi>March</hi> 1675/6.
+<note place="margin">Port of</note> I under-written <gap reason="blank" resp="#OXF"/> do Certifie that the <gap reason="blank" resp="#OXF"/> of <gap reason="blank" resp="#OXF"/> is an <hi>Engliſh</hi>-Built <gap reason="blank" resp="#OXF"/> of Burthen <gap reason="blank" resp="#OXF"/> Tuns, and <gap reason="blank" resp="#OXF"/> Guns, now lying at <gap reason="blank" resp="#OXF"/> within the Port of <gap reason="blank" resp="#OXF"/> bound for <gap reason="blank" resp="#OXF"/> And whereof <gap reason="blank" resp="#OXF"/> is Maſter, and is Navigated with <gap reason="blank" resp="#OXF"/> Men, whereof <gap reason="blank" resp="#OXF"/> are His Majeſties Subjects, and <gap reason="blank" resp="#OXF"/> Strangers. Dated the <gap reason="blank" resp="#OXF"/> day of <gap reason="blank" resp="#OXF"/> 
+               <hi>Anno Dom.</hi> 167<gap reason="blank" resp="#OXF"/>
+               <note place="margin">If this Certifi<g ref="char:EOLhyphen"/>cate be made in any of the Out-Ports, then this fol<g ref="char:EOLhyphen"/>lowing Certi<g ref="char:EOLhyphen"/>ficate is to be upon the Body of it.</note>
+            </p>
+            <p>I <gap reason="blank" resp="#OXF"/> Collector or Chief Officer of the Cuſtoms upon the Place in the Port aboveſaid, do hereby declare my Conſent under my Hand that a Paſs be granted for the above<g ref="char:EOLhyphen"/>ſaid Veſſel.</p>
+         </div>
+         <div type="sample_oath">
+            <pb n="14" facs="tcp:135067:8"/>
+            <head>FORM OF THE Oath of the Maſter Of a Foreign-built SHIP not made Free, whether bought before or ſince the Firſt of <hi>January, Anno</hi> 1673.</head>
+            <p> 
+               <gap reason="blank" resp="#OXF"/> of <gap reason="blank" resp="#OXF"/> Mariner and Maſter of the <gap reason="blank" resp="#OXF"/> called the <gap reason="blank" resp="#OXF"/> of <gap reason="blank" resp="#OXF"/> now at Anchor in the <gap reason="blank" resp="#OXF"/> maketh Oath in preſence of <gap reason="blank" resp="#OXF"/> That the ſaid <gap reason="blank" resp="#OXF"/> called the <gap reason="blank" resp="#OXF"/> Burthen <gap reason="blank" resp="#OXF"/> Tuns more or leſs, mounted with <gap reason="blank" resp="#OXF"/> Guns, and Navigated with <gap reason="blank" resp="#OXF"/> Men, whereof <gap reason="blank" resp="#OXF"/> are His Majeſties Subjects, and <gap reason="blank" resp="#OXF"/> Strangers, bound for <gap reason="blank" resp="#OXF"/> whereof he is appointed ſole Maſter for the ſaid Voyage (and knows of no other Maſter) is an Foreign-built <gap reason="blank" resp="#OXF"/> not made Free, bought the <gap reason="blank" resp="#OXF"/> day of <gap reason="blank" resp="#OXF"/> and doth wholly belong to the Inhabitants of <gap reason="blank" resp="#OXF"/> in the Dominions of His Majeſty of <hi>Great Britain;</hi>
+               <note place="margin">Expreſs the Owners names and then re<g ref="char:EOLhyphen"/>ſpective Parts or Shares in her, with their Places of A<g ref="char:EOLhyphen"/>bode.</note> and that <gap reason="blank" resp="#OXF"/> are Owners of her <gap reason="blank" resp="#OXF"/> and that the ſaid Veſſel is the ſame which hath been ſurveyed by <gap reason="blank" resp="#OXF"/> and for which he hath made a Certificate bearing date the <gap reason="blank" resp="#OXF"/> day of <gap reason="blank" resp="#OXF"/> And that he knows of no Name the ſaid Veſſel hath been or is called or known by,
+<note place="margin">If ſhe hath been called by any other name let it be here expreſſed, as the Maſter ſhall declare.</note> other than the Name above<g ref="char:EOLhyphen"/>mentioned <gap reason="blank" resp="#OXF"/> And that he knows of no other Paſs the ſaid Veſſel hath had,
+<note place="margin">If ſhe had any, declaring what is become of it.</note> or <gap reason="blank" resp="#OXF"/> 
+            </p>
+            <p>
+               <hi>Jurat,</hi> The above-named <gap reason="blank" resp="#OXF"/> Maſter of the ſaid Veſſel, that the Bill of <hi>Sale</hi> of this Veſſel pro<g ref="char:EOLhyphen"/>duced to the Officer of the Navigation is true, and that the per<g ref="char:EOLhyphen"/>ſons therein mentioned are the preſent real proprietors of her.</p>
+         </div>
+         <div type="sample_certificate">
+            <pb n="15" facs="tcp:135067:8"/>
+            <head>FORM OF THE CERTIFICATE Of the Officer for the Navigation for a Foreign-built SHIP not made Free, whether bought before or ſince the firſt of <hi>January, Anno</hi> 1673.</head>
+            <p>IN purſuance of His Majeſtie's Order in Council of the Tenth of <hi>March</hi> 1675/6.
+<note place="margin">Port of</note> I under-written <gap reason="blank" resp="#OXF"/> do Certifie that the ſaid <gap reason="blank" resp="#OXF"/> of <gap reason="blank" resp="#OXF"/> is a Foreign-built <gap reason="blank" resp="#OXF"/> of the Burthen of <gap reason="blank" resp="#OXF"/> Tuns, and <gap reason="blank" resp="#OXF"/> Guns, now lying at Anchor <gap reason="blank" resp="#OXF"/> within the Port of <gap reason="blank" resp="#OXF"/> bound for <gap reason="blank" resp="#OXF"/> whereof <gap reason="blank" resp="#OXF"/> is Maſter, and is Navigated with <gap reason="blank" resp="#OXF"/> Men, whereof <gap reason="blank" resp="#OXF"/> are His Majeſties Subjects, and <gap reason="blank" resp="#OXF"/> Strangers, and appeareth to be bought, and belong to the Inhabitants of His Majeſties Domini<g ref="char:EOLhyphen"/>ons, by a Bill of Sale bearing date the <gap reason="blank" resp="#OXF"/> day of <gap reason="blank" resp="#OXF"/> 
+               <hi>Anno Dom.</hi> 
+               <gap reason="blank" resp="#OXF"/> produced to me, but not made Free. Dated this <gap reason="blank" resp="#OXF"/> day of <gap reason="blank" resp="#OXF"/> 
+               <hi>Anno Dom.</hi> 167
+<note place="margin">If this Certifi<g ref="char:EOLhyphen"/>cate be made in any of the Out-Ports, then this fol<g ref="char:EOLhyphen"/>lowing Certi<g ref="char:EOLhyphen"/>ficate is to be upon the Body of it.</note>
+            </p>
+            <p>I <gap reason="blank" resp="#OXF"/> Collector or Chief Officer of His Majeſties Cuſtoms in the Port aboveſaid, do hereby declare my Conſent under my Hand that a Paſs be granted for the aboveſaid Ship.</p>
+         </div>
+         <div type="sample_oath">
+            <pb n="16" facs="tcp:135067:9"/>
+            <head>FORM OF THE Oath of the Proprietors Of a Foreign built SHIP, bought ſince the Firſt of <hi>January</hi> 1673. and not made Free.</head>
+            <p>I Under-written <gap reason="blank" resp="#OXF"/> of <gap reason="blank" resp="#OXF"/> make Oath that I am a Proprietor in the <gap reason="blank" resp="#OXF"/> called the <gap reason="blank" resp="#OXF"/> of <gap reason="blank" resp="#OXF"/> for which a Paſs is demanded by <gap reason="blank" resp="#OXF"/> Maſter of her; And that I have <gap reason="blank" resp="#OXF"/> part of her, and that I bought the ſame upon the <gap reason="blank" resp="#OXF"/> day of <gap reason="blank" resp="#OXF"/> for the Sum of <gap reason="blank" resp="#OXF"/> really and without fraud paid by me for the ſame;
+<note place="margin">Let him here Expreſs the Owners re<g ref="char:EOLhyphen"/>ſpective Names, Places of Abode, and Shares as near as he can.</note> and that <gap reason="blank" resp="#OXF"/> are Part-Owners thereof. And that none but Inhabitants of His Majeſties Dominions to the beſt of my knowledge, have any Part or Share in the ſaid <gap reason="blank" resp="#OXF"/> Dated this <gap reason="blank" resp="#OXF"/> day of <gap reason="blank" resp="#OXF"/> 
+               <hi>Anno Dom.</hi> 167<gap reason="blank" resp="#OXF"/>
+            </p>
+            <p>
+               <hi>Jurat,</hi> That the Contents above-ſaid <gap reason="blank" resp="#OXF"/> are true.</p>
+            <p>
+               <hi>Coram, &amp;c.</hi>
+            </p>
+         </div>
+         <div type="sample_passport">
+            <pb facs="tcp:135067:9"/>
+            <head>To all unto whom theſe Preſents ſhall Come.</head>
+            <p>
+               <hi>We the Commiſsioners of the Cuſtoms of his moſt Serene Majeſty of</hi> Great Britain, &amp;c. <hi>Within his Kingdom of</hi> England, <hi>reſiding in</hi> London; <hi>do teſtifie and make known, That <gap reason="blank" resp="#OXF"/> of the <gap reason="blank" resp="#OXF"/> called the <gap reason="blank" resp="#OXF"/> Hath in our preſence, under ſolemn Oath declared, That the ſaid <gap reason="blank" resp="#OXF"/> of the Burthen of <gap reason="blank" resp="#OXF"/> whereof he is at preſent Maſter, doth belong to the In<g ref="char:EOLhyphen"/>habitants of <gap reason="blank" resp="#OXF"/> in the Dominions of his ſaid Majeſty of</hi> Great Britain. <hi>And We deſiring that the ſaid Maſter may be aſsiſted in his Voyage and buſineſs, do intreat all perſons in general and particular, who ſhall meet him; and thoſe of all places where the ſaid Maſter ſhall come with the ſaid <gap reason="blank" resp="#OXF"/> and her Merchandize; that they would admit him favourably, treat him kindly, and receive the ſaid <gap reason="blank" resp="#OXF"/> into their Ports, Bays, Havens, Rivers and Dominions: permitting her quietly to ſail, paſs, frequent, and negotiate there, or in any other place, as ſhall ſeem good to the ſaid Maſter; paying ſtill the Toll and Cuſtoms which of right ſhall be due: Which We will acknowledge gratefully upon the like occaſions. In witneſs whereof We have ſigned theſe preſents, and ſealed them with the Seal of the Cuſtom-houſe</hi> London, <hi>the</hi> 
+               <gap reason="blank" resp="#OXF"/>
+            </p>
+            <pb n="16" facs="tcp:135067:10"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:135067:10"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:135067:11"/>
+         </div>
+         <div type="dedication">
+            <pb n="17" facs="tcp:135067:11"/>
+            <p>
+               <hi>AFter my hearty Commendations: Whereas the ſeveral</hi> Rules <hi>hereunto annexed, for preventing the fraudulent procuring of</hi> Paſ<g ref="char:EOLhyphen"/>ſes, <hi>purſuant to the Treaties with</hi> Spain <hi>and the</hi> Uni<g ref="char:EOLhyphen"/>ted Provinces, <hi>together with the Form of a</hi> Certifi<g ref="char:EOLhyphen"/>cate <hi>to be ſigned by the Officer appointed to ſurvey each</hi> Ship <hi>for which a</hi> Paſs <hi>ſhall be demanded; as al<g ref="char:EOLhyphen"/>ſo of the</hi> Oaths <hi>of the Maſters, and the</hi> Bond <hi>to be entred into by them, have been approved by His Majeſty in Council, and directed to be obſerved and put in execution by an Order of the Tenth of</hi> March <hi>laſt: In purſuance of which Order of His Maje<g ref="char:EOLhyphen"/>ſty in Council, Theſe are to direct and require you to obſerve the ſaid</hi> Rules, <hi>and Forms of</hi> Certifi<g ref="char:EOLhyphen"/>cates, Oaths, <hi>and</hi> Bonds <hi>(which I have herewith tranſmitted to you) and to govern your ſelves there<g ref="char:EOLhyphen"/>by; and that you cauſe the ſame to be ſignified to, and duly obſerved and executed by all other Offi<g ref="char:EOLhyphen"/>cers of His Majeſties Cuſtoms therein concerned, according to the true meaning thereof, and His Ma<g ref="char:EOLhyphen"/>jeſties Pleaſure in this behalf: For which, this ſhall be you Warrant.</hi> Newmarket, <hi>the Seventh of</hi> April, 1676.</p>
+            <closer>
+               <salute>To my very Loving Friends, the Commiſſioners of His Majeſties Cuſtoms.</salute>
+               <signed>DANBY.</signed>
+            </closer>
+         </div>
+         <div type="proclamation">
+            <pb n="18" facs="tcp:135067:12"/>
+            <head>At the Court at WHITEHALL 22 <hi>MARCH</hi> 1675/6. By the KING'S Moſt Excellent Majeſty and the Right Honourable the Lords of His Ma<g ref="char:EOLhyphen"/>jeſties moſt Honourable Privy Council.</head>
+            <p>WHEREAS the Right Honourable the Lords Committees for Trade did this day make Report to the Board, That in purſuance of an Order of the Tenth Inſtant, upon the Complaint of the <hi>Eaſtland</hi> Merchants, and thoſe who Trade unto <hi>Hamburgh,</hi> they have peruſed the Treaties between His Majeſty and the Crowns of <hi>Sweden</hi> and <hi>Denmark:</hi> and according to the Me<g ref="char:EOLhyphen"/>thods preſcribed by the ſaid Treaties, they have made the beſt Pro<g ref="char:EOLhyphen"/>viſion they could think of, for Ships that are Outward bound; pro<g ref="char:EOLhyphen"/>poſing that they take their <hi>Paſſes</hi> in the manner following: <hi>Viz.</hi>
+            </p>
+         </div>
+         <div type="regulations">
+            <head>RULES <hi>for the granting of</hi> PASSES <hi>in purſuance of the Treaty with</hi> Sweden.</head>
+            <list>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="I"/> No <hi>Paſs</hi> to be granted in purſuance of this Treaty, in the Port of <hi>London,</hi> but by the Commiſſioners of the Cuſtoms; nor in any of the Out-Ports, but by the Chief Magiſtrates of ſuch Places as are authoriſed to grant Paſſes by vertue of the Trea<g ref="char:EOLhyphen"/>ties with <hi>Spain</hi> and the <hi>
+                     <g ref="char:V">Ʋ</g>nited Provinces,</hi> and with the Con<g ref="char:EOLhyphen"/>ſent of the Chief Officer of the Cuſtoms in ſuch Place, and under the like Regulation as to the Place where ſhe is to re<g ref="char:EOLhyphen"/>ceive her <hi>Paſs,</hi> as is directed in the Rules for granting of <hi>Paſſes,</hi> in purſuance of the Treaties with <hi>Spain</hi> and the <hi>
+                     <g ref="char:V">Ʋ</g>nited Provinces.</hi>
+               </item>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="II"/> No ſuch <hi>Paſs</hi> to be granted, until it ſhall appear to the Perſon grant<g ref="char:EOLhyphen"/>ing the ſame, that ſuch Ship hath had a <hi>Paſs</hi> in ſome Port of <hi>England,</hi> in purſuance of the Treaties with <hi>Spain</hi> or the <hi>
+                     <g ref="char:V">Ʋ</g>nited Provinces.</hi>
+               </item>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="III"/> No ſuch Paſs to be granted, until affirmation made before the perſon or perſons from whom ſuch Paſs is demanded, con<g ref="char:EOLhyphen"/>cerning
+<pb n="19" facs="tcp:135067:12"/>the propriety of ſuch Ship, <hi>&amp;c.</hi> as is directed in the Form of the Paſs-port hereunto annexed.</item>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="IV"/> No ſuch <hi>Paſs</hi> to be granted, without expreſſing therein the Lading of ſuch Ship, as is alſo directed in the Form of the Paſs-port hereunto annexed.</item>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="V"/> That no <hi>Paſs</hi> be granted, until the Maſter of ſuch Ship ſhall enter Bond, in his Majeſties Name, with one Surety, if the Ship belong to the Port of <hi>London,</hi> to the Collector Cut<g ref="char:EOLhyphen"/>wards; and if ſhe belong to any Out-Port, then to the Officer of the Cuſtoms in ſuch Port, who is to conſent to <hi>Paſſes</hi> to be given by vertue of the Treaties with <hi>Spain</hi> or the <hi>
+                     <g ref="char:V">Ʋ</g>nited Provinces.</hi> The ſaid Bond to be in the penalty of 100 <hi>l.</hi> if the ſaid Ship appear to be of the Burthen of 100 Tons or upwards, and in the penalty of 50 <hi>l.</hi> if under the Burthen of 100 Tons, for the return and re-delivery of ſuch <hi>Paſs</hi> within the ſpace of one Year, to be accounted from the Date thereof, unleſs in caſe of Capture, or the loſs of ſuch Ship. And before the granting of ſuch <hi>Paſs,</hi> the perſon demanding the ſame is to produce a Certificate to the perſon or perſons from whom he demands ſuch <hi>Paſs,</hi> that ſuch Bond hath been entred into by the Maſter of ſuch <hi>Ship,</hi> which Certificate is to be under the Hand of the Offi<g ref="char:EOLhyphen"/>cer of the Cuſtoms who took the Bond, and ſealed with the <hi>Seal</hi> of ſuch Cuſtom-houſe.</item>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="VI"/> That the Form of a <hi>Paſs</hi> printed upon <hi>Parchment,</hi> with Blanks, hereunto annexed, be made uſe of in purſuance of this Trea<g ref="char:EOLhyphen"/>ty, in <hi>London,</hi> and the <hi>Out-Ports,</hi> and no other.</item>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="VII"/> That a perfect Regiſter be kept of every <hi>Paſs</hi> which ſhall be granted in purſuance of this Treaty; which Regiſter is to be kept in the <hi>Port</hi> of <hi>London</hi> by the Commiſſioners of the Cuſtoms, and in the <hi>Out-Ports</hi> by the Chief Magiſtrates, and the Officers of the Cuſtoms, that ſhall conſent to ſuch <hi>Paſs;</hi> and to be tranſmitted from the <hi>Out-Ports</hi> to the Commiſſio<g ref="char:EOLhyphen"/>ners of the Cuſtoms in the <hi>Port</hi> of <hi>London,</hi> monthly; and by the Commiſſioners of the Cuſtoms, to the Commiſſio<g ref="char:EOLhyphen"/>ners for executing the Office of Lord High Admiral, quar<g ref="char:EOLhyphen"/>terly, for <hi>London</hi> and the <hi>Out-Ports.</hi> And no <hi>Paſs</hi> to be granted until the Regiſter be carefully examined, whether any ſuch former <hi>Paſs</hi> hath been granted to ſuch <hi>Ship:</hi> And in that caſe, that no new <hi>Paſs</hi> be granted, until the former be delivered up. The like Directions to be given for <hi>Scotland, Ireland,</hi> and the reſt of His Majeſties Dominions.</item>
+            </list>
+         </div>
+         <div type="sample_affidavit">
+            <pb n="20" facs="tcp:135067:13"/>
+            <head>FORM OF THE AFFIRMATION.</head>
+            <p>THeſe are to Certifie, That <gap reason="blank" resp="#OXF"/> upon the <gap reason="blank" resp="#OXF"/> day of <gap reason="blank" resp="#OXF"/> in the year of our Lord <gap reason="blank" resp="#OXF"/> Citizens and Inhabitants of <gap reason="blank" resp="#OXF"/> and Subjects of His Majeſty the King of <hi>GREAT BRITAIN,</hi> did perſonally appear before <gap reason="blank" resp="#OXF"/> under the Dominion of His Maje<g ref="char:EOLhyphen"/>ſty the King of <hi>GREAT BRITAIN,</hi> and did there upon the Faith of that Oath whereby they are bound to His Majeſty the King of <hi>GREAT BRI<g ref="char:EOLhyphen"/>TAIN,</hi> our moſt Gracious Sovereign, and to our <gap reason="blank" resp="#OXF"/> declare that the Ship or Veſſel called the <gap reason="blank" resp="#OXF"/> of <gap reason="blank" resp="#OXF"/> Thus, doth belong to <gap reason="blank" resp="#OXF"/> of the Dominions of <gap reason="blank" resp="#OXF"/> And that the ſaid <gap reason="blank" resp="#OXF"/> doth properly and of right appertain thereunto, or to the Subjects of His Majeſty the King of <hi>GREAT BRITAIN,</hi> but now from the Port of <gap reason="blank" resp="#OXF"/> is bound for <gap reason="blank" resp="#OXF"/> freighted with the Goods following: <hi>Viz.</hi>
+            </p>
+            <p>And did affirm upon the aforeſaid Oath <gap reason="blank" resp="#OXF"/> all the ſaid Goods and Merchandiſe to belong to the Subjects of the King of <hi>GREAT BRITAIN</hi> and <gap reason="blank" resp="#OXF"/> unto <gap reason="blank" resp="#OXF"/> And that <gap reason="blank" resp="#OXF"/> upon the aforeſaid Oath alledged that the ſaid Goods above-ſpecified, and no others, were put or to be put on board the ſaid <gap reason="blank" resp="#OXF"/> for that Voy<g ref="char:EOLhyphen"/>age, and that no part thereof belongeth to any other then the perſons aforeſaid; and that therein there are no other Goods hidden under any falſe or counterfeit Name whatſoever: But that the aforeſaid Merchandiſe were truly and really for the uſe of the ſaid Owners and Proprietors and no others, and that the ſaid Ma<g ref="char:EOLhyphen"/>ſter of the Ship named <gap reason="blank" resp="#OXF"/> is a Citizen of <gap reason="blank" resp="#OXF"/> aforeſaid. Dated the <gap reason="blank" resp="#OXF"/> day of <gap reason="blank" resp="#OXF"/> 
+               <hi>Anno Domini</hi> 167 <gap reason="blank" resp="#OXF"/> 
+            </p>
+            <p>
+               <hi>Had a Paſs in purſuance of the Treaties with</hi> Spain <hi>and the</hi> United Provinces, <hi>dated the <gap reason="blank" resp="#OXF"/> day of</hi> 
+               <gap reason="blank" resp="#OXF"/> 
+            </p>
+            <p>Anno 167</p>
+            <p>
+               <hi>Former Paſs in purſuance of the Treaty with</hi> Sweden.</p>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:135067:14"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="sample_passport">
+            <pb n="20" facs="tcp:135067:14"/>
+            <head>To all unto whom theſe Preſents ſhall Come.</head>
+            <p> 
+               <gap reason="blank" resp="#OXF"/> under the Dominions of his moſt Serene Majeſty of <hi>Great Britain,</hi> &amp;c. Do Certify that upon the <gap reason="blank" resp="#OXF"/> day of <gap reason="blank" resp="#OXF"/> in the Year of our Lord <hi>1676.</hi> 
+               <gap reason="blank" resp="#OXF"/> Citizens and Inhabitants of <gap reason="blank" resp="#OXF"/> and Subjects of his Majeſty the King of <hi>Great Britain,</hi> did perſonally appear before <gap reason="blank" resp="#OXF"/> in the <gap reason="blank" resp="#OXF"/> and did there upon the Faith of that Oath whereby they are bound to his Majeſty the King of <hi>Great Britain,</hi> Our moſt Gracious Soveraign and to our City, declare that the Ship or Veſſel called <gap reason="blank" resp="#OXF"/> of <gap reason="blank" resp="#OXF"/> Tunns doth belong to the <gap reason="blank" resp="#OXF"/> of the Dominion of <hi>England.</hi> And that the ſaid Ship or Veſſel doth properly and of right appertain thereunto or the Subjects of his Majeſty the King of <hi>Great Britain,</hi> but now from the Port of <gap reason="blank" resp="#OXF"/> is Bound for <gap reason="blank" resp="#OXF"/> Freighted with the Goods following, <hi>viz.</hi> 
+               <gap reason="blank" resp="#OXF"/>
+            </p>
+            <p>And did affirm upon the aforeſaid Oath, that all the ſaid Goods and Merchandize do belong to the Subjects of the King of <hi>Great Britain;</hi> And that they upon the Oath aforeſaid alledged that the ſaid Goods above ſpecified and no others were put, or to be put on board the ſaid Ship or Veſſel for that Voyage; and that no part thereof belongeth to any other than the Perſons aforeſaid; And that therein there are no other Goods hidden under any falſe or Coun<g ref="char:EOLhyphen"/>terfeit name whatſoever, but that the foreſaid Merchandize were truly and really for the uſe of the ſaid Owners and proprietors and no other, and that the ſaid Maſter of the Ship or Veſſel named <gap reason="blank" resp="#OXF"/> is a Citizen of <gap reason="blank" resp="#OXF"/> Wherefore ſince upon ſtrict enquiry it is manifeſt to <gap reason="blank" resp="#OXF"/> That the ſaid Ship or Veſſel and Goods are free, and do really and truly belong to the Subjects of his Majeſty of <hi>Great Britain,</hi> 
+               <gap reason="blank" resp="#OXF"/> do with all Reſpect humbly deſire all Powers by Land, or Sea, Kings, Princes, Common-wealths, Free Cities, as alſo all Generals, Admirals, General Officers, Governors of Ports, and all others to whom the Guard of any Port or Sea is commit<g ref="char:EOLhyphen"/>ed, who ſhall happen to meet this Ship under Sail, or into whoſe Fleet ſhe ſhall fall, or in whoſe Port ſhe ſhall happen to ſtay, that in regard of the Friendſhip and alliance which is between every of them, or their Superiours, and his Majeſty of <hi>Great Britain</hi> our moſt gracious Soveraign, that they would not only ſuffer and permit the ſaid Maſter with the Ship or Veſſel the Perſons, Goods and Merchandize belonging thereunto without any Let or hinderance freely to make his Voyage, but alſo (if he think convenient to go any where elſe from the ſaid Port) that they would do him all Civil Office as a Subject of his Majeſty the King of <hi>Great Britain,</hi> expecting the like Returns from his Majeſty the King of <hi>Sweden,</hi> his Officers and Subjects in the like or other Caſe. In Witneſs whereof <gap reason="blank" resp="#OXF"/> have Subſcribed theſe preſents and Sealed the ſame with the Seal of <gap reason="blank" resp="#OXF"/> Dated the <gap reason="blank" resp="#OXF"/> day of <gap reason="blank" resp="#OXF"/> 
+            </p>
+         </div>
+         <div type="regulations">
+            <pb facs="tcp:135067:15"/>
+            <pb n="21" facs="tcp:135067:15"/>
+            <head>RULES <hi>for the granting of</hi> PASSES <hi>in purſuance of the Treaty with</hi> Denmark.</head>
+            <list>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="I"/> No <hi>Paſs</hi> to be granted in purſuance of this Treaty, but what is ſigned by His Ma<g ref="char:EOLhyphen"/>jeſty, and counterſigned by a Principal Secretary of State.</item>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="II"/> That no ſuch <hi>Paſs</hi> be granted, until a Schedule be produced, ſigned by the Officers of the Cuſtoms in the Port where the Ship took in her Lading, containing all the Goods ſhe hath on Board, be they more or leſs: and if ſhe have no Lading, then to expreſs the ſame. And a Direction to the Officers in the reſpective Ports where <hi>Paſſes</hi> are to be given by vertue of the Treaties with <hi>Spain</hi> and the <hi>
+                     <g ref="char:V">Ʋ</g>nited Provinces;</hi> to grant ſuch Schedules, and to ſign and ſeal them with the Seal of the Cuſtom-houſe.</item>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="III"/> That no ſuch <hi>Paſs</hi> be granted, till a Certificate be produced from the Chief Magi<g ref="char:EOLhyphen"/>ſtrate of ſome ſuch Place in each Port, as by the Regulation of the Treaties with <hi>Spain</hi> and the <hi>United Provinces</hi> is authoriſed to grant Paſſes in the Form pre<g ref="char:EOLhyphen"/>ſcribed by this Treaty.</item>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="IV"/> That no ſuch <hi>Paſs</hi> be granted, until it appear by Certificate to the ſaid Principal Secretary of State, from whom any ſuch <hi>Paſs</hi> ſhall be demanded, that the ſaid Ship hath had a <hi>Paſs</hi> according to the Form preſcribed by the Treaties with <hi>Spain</hi> of the <hi>United Provinces</hi> which Certificate is to be ſigned by the Commiſſioners of the Cuſtoms in the Port of <hi>London,</hi> or their Secretary, in caſe ſuch <hi>Paſs</hi> were granted in the Port of <hi>London;</hi> and in caſe it were granted in any of the Out-Ports, that it be ſigned by the Officer of the Cuſtoms who conſented to ſuch <hi>Paſs.</hi>
+               </item>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="V"/> That no <hi>Paſs</hi> be granted, until the Maſter of ſuch Ship ſhall enter Bond, in His Ma<g ref="char:EOLhyphen"/>jeſties Name, with one Surety, if the Ship belong to the Port of <hi>London,</hi> to the Collector Outwards; and if ſhe belong to any Out-Port, then to the Offi<g ref="char:EOLhyphen"/>cer of the Cuſtoms in ſuch Out-Port, who into conſent to <hi>Paſſes</hi> to be given by vertue of the Treaties with <hi>Spain</hi> and the <hi>United Provinces.</hi> The ſaid Bond to be in the penalty of 100 <hi>l.</hi> if the ſaid Ship appear to be of the Burthen of 100 Tons or upwards; and in the penalty of 50 <hi>l.</hi> if under the Burthen of 100 Tons, for the return and redelivering of ſuch Paſs within the ſpace of one Year, to be accounted from the date thereof, unleſs in caſe of Capture, or the loſs of ſuch Ship. And before the granting of ſuch Paſs, the Perſon demanding the ſame is to produce a Certificate to the Secretary of State from whom it is demanded, that ſuch Bond hath been entred into by the Maſter of ſuch Ship; Which Certificate is to be under the Hand of the Officer of the Cuſtoms who took the Bond, and ſealed with the Seal of ſuch Cuſtom-houſe.</item>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="VI"/> That the Forms of a Paſs and Certificate printed upon Parchments with Blanks here<g ref="char:EOLhyphen"/>unto annexed, be made uſe of by vertue of this Treaty and no other. </item>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="VII"/> That a perfect Regiſter be kept by the Secretary of State of every Paſs which ſhall be counter ſigned by him in purſuance of this Treaty, which Regiſter is to be ſtrictly kept, and no <hi>Paſs</hi> to be granted until the ſame be carefully examined whether any ſuch former <hi>Paſs</hi> hath been granted to ſuch ſhip, and in that caſe, then no new Paſs to be granted, until the former be delivered up; and that a quarterly account thereof be given by the ſaid Secretary to the Lords Commiſſi<g ref="char:EOLhyphen"/>oners for Executing the Office of Lord High Admiral.</item>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="VIII"/> The like Directions to the Secretary of State for <hi>Scotland</hi> about <hi>Paſſes</hi> for <hi>Scotch</hi> Ships; And if the <hi>Paſſes</hi> for <hi>Ireland</hi> are to be procured by one of the Principal Secretaries of State in <hi>England,</hi> yet that they keep a diſtinct Regiſter for <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> as well as a <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>nct Regiſter for <hi>England, ſerſey, Guernſey, Alderney, Sark,</hi> and the Iſlands of <hi>Scilly</hi> and <hi>Man.</hi>
+               </item>
+            </list>
+            <closer>
+               <signed>All which, <hi>&amp;c. Bridgewater, Carliſle, Craven, Fauco<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>berg, H. Coventry, J. Williamſon.</hi>
+               </signed>
+               <signed>R. Southwell.</signed>
+            </closer>
+         </div>
+         <div type="sample_affidavit">
+            <pb n="22" facs="tcp:135067:16"/>
+            <opener>
+               <dateline>LONDON ſſ.</dateline>
+            </opener>
+            <p>
+               <hi>
+                  <hi>
+                     <seg rend="decorInit">T</seg>O all</hi> that ſhall ſee theſe Preſents, or hear them to be read <gap reason="blank" resp="#OXF"/> Lord Mayor, and the Aldermen of the City of</hi> LONDON, <hi>
+                  <hi>Do</hi> attest and certifie: That on the Day of the Date hereof; before <g ref="char:V">Ʋ</g>s perſonally came and ap<g ref="char:EOLhyphen"/>peared <gap reason="blank" resp="#OXF"/> And under the Oath wherein <gap reason="blank" resp="#OXF"/> ſtand bound to Our Sovereign Lord the King, did declare unto <g ref="char:V">Ʋ</g>s: <hi>That</hi> the ſaid Ship <gap reason="blank" resp="#OXF"/> in the Port of <gap reason="blank" resp="#OXF"/> of the Burthen of <gap reason="blank" resp="#OXF"/> Tunns, or thereabouts, doth belong to the Port of <gap reason="blank" resp="#OXF"/> in the Kingdom of</hi> ENGLAND: <hi>And that the ſaid Ship doth juſtly belong to <gap reason="blank" resp="#OXF"/> Subjects of our ſaid Sovereign Lord the King: And <gap reason="blank" resp="#OXF"/> 
+                  <hi>And</hi> the ſaid Appearer <gap reason="blank" resp="#OXF"/> affirmed under the Oath aforeſaid, That the afore<g ref="char:EOLhyphen"/>mentioned Ship <gap reason="blank" resp="#OXF"/> doth only belong to Subjects of His ſaid Majeſty: And <gap reason="blank" resp="#OXF"/> carry no Goods prohibited, which belong to either of the Parties now in War. <hi>In teſtimony</hi> whereof. We have cauſed this Cortificate to be ſubſcribed by Our Town-Clerk, and Sealed with the Seal of Majoralty of the City of</hi> LONDON.</p>
+            <closer>
+               <dateline>Given at <hi>LONDON</hi> 
+                  <date>the <gap reason="blank" resp="#OXF"/> day of <gap reason="blank" resp="#OXF"/> Anno Domini 167<gap reason="blank" resp="#OXF" extent="1 letter">
+                        <desc>_</desc>
+                     </gap> And in the <gap reason="blank" resp="#OXF"/> Year of the Reign of Our Sovereign Lord CHARLES the Second, by the Grace of God King of <hi>ENGLAND, SCOTLAND, FRANCE,</hi> and <hi>IRELAND,</hi> Defender of the Faith, &amp;c.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="confirmation">
+            <pb n="23" facs="tcp:135067:16"/>
+            <p>
+               <hi>VVHich Rules having been read and conſidered at the Board, His Majeſty was pleaſed to ap<g ref="char:EOLhyphen"/>prove thereof, and did order that as well the</hi> Right Honou<g ref="char:EOLhyphen"/>rable the Earl of <hi>Danby</hi> Lord High Treaſurer of <hi>Eng<g ref="char:EOLhyphen"/>land, as the</hi> Lords Commiſſioners for Executing the Of<g ref="char:EOLhyphen"/>fice of Lord High Admiral of England, <hi>and</hi> His Ma<g ref="char:EOLhyphen"/>jeſties Principal Secretaries of State, <hi>do reſpectively cauſe the ſaid Rules to be duly and punctually obſerved and put in execution.</hi>
+            </p>
+            <closer>
+               <signed>John Nicholas.</signed>
+            </closer>
+         </div>
+         <div type="proclamation">
+            <p>THe Commiſſioners of His Majeſties Cuſtoms are hereby directed and required to govern themſelves by theſe Rules in what is to be done by them touching Paſſes to be granted in purſuance of the reſpective Trea<g ref="char:EOLhyphen"/>ties with <hi>Sweden</hi> and <hi>Denmark,</hi> and to cauſe the ſame to be ſignified to, and to be duly obſerved and exe<g ref="char:EOLhyphen"/>cuted by all other Officers of His Majeſties Cuſtoms therein concerned, according to the Form thereof and His Majeſties pleaſure therein declared: for which this ſhall be their Warrant.</p>
+            <closer>
+               <dateline>
+                  <hi>New-Market</hi> 
+                  <date>
+                     <hi>this ſeventh day of April</hi> 1676.</date>
+               </dateline>
+               <signed>DANBY.</signed>
+            </closer>
+         </div>
+         <div type="proclamation">
+            <pb n="24" facs="tcp:135067:17"/>
+            <head>At the Court at WHITEHALL 10 <hi>MARCH</hi> 1675/6. By the KING'S Moſt Excellent Majeſty and the Right Honourable the Lords of His Ma<g ref="char:EOLhyphen"/>jeſties moſt Honourable Privy Council.</head>
+            <p>VVHEREAS in purſuance of an Order of the Eighth Inſtant, The Lords Com<g ref="char:EOLhyphen"/>miſſioners for Executing the Office of Lord High Admiral of <hi>England,</hi> did this day report to His Majeſty in Council, their Approbation of the ſeveral Rules here under written, prepared by the Com<g ref="char:EOLhyphen"/>mittee of this Board for Trade, for preventing the frau<g ref="char:EOLhyphen"/>dulent procuring of Paſſes, in purſuance of the Treaties with <hi>Algiers, Tunis,</hi> and <hi>Tripoly,</hi> as followeth: <hi>Viz.</hi>
+            </p>
+            <div type="regulations">
+               <opener>
+                  <salute>May it pleaſe your Majeſty,</salute>
+               </opener>
+               <p>
+                  <hi>BEſide the General Regulation which We preſent Your Majeſty in relation to Paſſes, We have thought fit for Your Majeſties Service, to prepare alſo ſome Rules for the Granting of Paſſes, in purſuance of the</hi> Treaties <hi>with</hi> Al<g ref="char:EOLhyphen"/>giers, Tunis, <hi>and</hi> Tripoly; <hi>and having therein likewiſe conſulted with the Commiſsioners of the Cuſtoms, and recei<g ref="char:EOLhyphen"/>ved their concurrence, We preſume to lay them before Your Majeſty, as followeth:</hi>
+               </p>
+               <p>FIrſt, Whereas by the words of the late Proclamation, bear<g ref="char:EOLhyphen"/>ing date the 22th. of <hi>December</hi> 1675, Your Majeſty did declare that no Paſs or Sea-brief whatſoever, which bore date
+<pb n="25" facs="tcp:135067:17"/>before the ſaid Proclamation, ſhall remain in force any longer than until the Firſt day of <hi>May</hi> next; but the other Paſſes in the Form thereby eſtabliſhed, ſhall upon demand, and without charge be delivered forth by the Secretary of the Admiralty for the time be<g ref="char:EOLhyphen"/>ing to the parties intereſſed therein, upon ſecurity by them given for delivering up their former Paſſes to the Lord High Admiral or the Lords Commiſſioners for executing the Office of Lord High Admi<g ref="char:EOLhyphen"/>ral, within ſix months after their receiving ſuch new ones; if there ſhall appear an evident neceſſity of ſending Paſſes to any other Ships now in the <hi>Streights</hi> then <hi>Engliſh</hi> built Ships or <hi>Foreign</hi> built Ships made free, the ſame ſhall be done with the utmoſt ſtrictneſs of Examination touching the Propriety of ſuch Ships, and in or<g ref="char:EOLhyphen"/>der onely to their comming out of the <hi>Streights</hi> and return home; and Bond to be given accordingly in your Majeſties name with one good ſurety to ſuch perſon as ſhall be appointed by the Lords Commiſſioners for Executing the Office of Lord High Admiral of <hi>England,</hi> to receive the ſame: In the ſum of fifty pounds penalty if ſuch Ship be under the Burthen of 100 Tons, and in the penal<g ref="char:EOLhyphen"/>ty of 100 <hi>li.</hi> if ſuch Ship be of the Burthen of 100 Tons or more, for the delivering up the ſaid Paſſes within the time to be expreſſed in the Condition of the ſaid Bonds, unleſs in caſe of Shipwrack or Capture.</p>
+               <p>SEcondly, And for the better preventing the fraudulent procu<g ref="char:EOLhyphen"/>ring ſuch Paſſes for the future, that the following Rules and Di<g ref="char:EOLhyphen"/>rections be duly and punctually obſerved and put in execution by the Lord High Admiral or Lords Commiſſioners for Executing the Office of Lord High Admiral.</p>
+               <p n="1">1. That no Paſs be granted in purſuance of thoſe Treaties in any parts of the Kingdom of <hi>England,</hi> Dominion of <hi>Wales,</hi> or Town of <hi>Berwick,</hi> but by the Lords Commiſſioners for Executing the Office of Lord High Admiral.</p>
+               <p n="2">2. No ſuch Paſs to be granted to any Ships but Engliſh-built Ships or Foreign built Ships made free, until further Order.</p>
+               <p n="3">3. No Paſs to be granted to any Ship that is not in ſome Port of <hi>England, Wales,</hi> or <hi>Berwick,</hi> or ſome Member or Creek thereof, at the time of granting ſuch Paſſes.</p>
+               <p n="4">4. No Paſs to be granted to any Ship, whereof the Maſter is not His Majeſties Natural born Subject, and whereof two thirds of the Mariners are not Engliſh.</p>
+               <p n="5">5. No Paſſes granted in purſuance of the Treaties with <hi>Algiers, Tunis,</hi> and <hi>Tri<g ref="char:EOLhyphen"/>poly,</hi> are to continue in force according to His Majeſties late Proclamation of the 22d. of <hi>December</hi> laſt (longer than the ſpace of one year) from the date of the ſaid Paſſes, until further Order.</p>
+               <pb n="26" facs="tcp:135067:18"/>
+               <p n="6">6. In caſe any Ship demanding ſuch a Paſs, ſhall be within the Port of <hi>London</hi> at the time of demanding thereof, that it be not granted until ſhe ſhall have been firſt viewed by the Surveyor of the Act of Navigation or his Deputy, or the Offi<g ref="char:EOLhyphen"/>cer of the Navy eſpecially appointed thereunto by the Lord High Admiral or Lords Commiſſioners of the Admiralty, and a Certificate produced from one of them under their hands to the Lord High Admiral or Lords Commiſſioners, for Execu<g ref="char:EOLhyphen"/>ting the Office of Lord High Admiral; which Certificate is to be in the ſame Form as the Certificates for Engliſh built Ships and Foreign built Ships made free, for which Paſſes are demanded in purſuance of other Treaties: And in caſe any Ship ſhall be in any of the Out-ports or in any Member or Creek thereof, at the time of demanding ſuch Paſs; that upon notice thereof to the Commiſſioners of the Cu<g ref="char:EOLhyphen"/>ſtoms from the Secretary of the Admiralty, the ſaid Commiſſioners ſhall there<g ref="char:EOLhyphen"/>upon write to the Collector of ſuch Port, that he cauſe the ſaid Ship to be re<g ref="char:EOLhyphen"/>viewed by the Deputy of the Surveyor of the Act of Navigation, or by their Surveyor, where there is a Surveyor, or by the Officer appointed by the ſaid Col<g ref="char:EOLhyphen"/>lector for viewing of Ships; and that he return up the like Certificate to the Com<g ref="char:EOLhyphen"/>miſſioners under the hands of the Officer that ſhall have ſurveyed her: which Cer<g ref="char:EOLhyphen"/>tificate ſhall be by the ſaid Commiſſioners tranſmitted to the Lord High Admiral; and no Paſs to be granted to ſuch Ship until this is done.</p>
+               <p n="7">7 That before the granting of any ſuch Paſs the Maſter of ſuch Ship make ſuch Oath as is to be taken by Maſters of Ships demanding Paſſes for Engliſh built Ships or Foreign built Ships made free, or in purſuance of any other Treaties.</p>
+               <p n="8">8. That the Form of ſuch Paſſes which is hereunto annexed, be printed upon a certain ſize of Parchment, and that no other be made uſe of; that ſo they may be diſtinguiſhed from all other Paſſes.</p>
+               <p n="9">9. That a perfect Regiſter be kept by the Lord High Admiral or Lords Com<g ref="char:EOLhyphen"/>miſſioners for Executing the Office of Lord High Admiral, of all Paſſes granted by them; and that the ſaid Regiſter be kept diſtinct from the Regiſter which ſhall be kept by them in purſuance of any other Treaties; and that ſuch Regiſter be ſtrictly kept and do expreſs all the particulars in the Certificate of the Officer that viewed ſuch Ship, and in the Oath of the Maſter.</p>
+               <p n="10">10. That care be taken to give ſpeedy notice into <hi>Scotland</hi> and <hi>Ireland,</hi> and to the Governour of <hi>Tangier, &amp;c.</hi> That Paſſes by vertue of theſe Treaties, are to be granted only by the Lord High Admiral of <hi>England,</hi> or Lords Commiſſioners for Executing the Office of Lord High Admiral.</p>
+               <closer>
+                  <signed>All which is humbly ſummitted <hi>Danby. Bridgwater. Craven. Coventry. J. Williamſon. Rob. Southwell.</hi>
+                  </signed>
+                  <pb n="27" facs="tcp:135067:18"/> 
+                  <hi>WHich being Read and Conſidered at the Board, His Majeſty was pleaſed to approve thereof, and did order, That the Lords Commiſſioners for Executing the Office of Lord High Admiral of</hi> England, <hi>do cauſe the ſaid Rules to be duly and punctually obſerved and put in Execution.</hi>
+                  <signed>John Nicholas.</signed>
+               </closer>
+            </div>
+         </div>
+         <div type="sample_passport">
+            <head>FORM of the PASS in purſuance of the TREATIES with ALGIERS, TUNIS, and TRIFOLY. By the Lords Commiſsioners for Executing the Office of Lord Hgh Admiral of <hi>England.</hi>
+            </head>
+            <p>SUffer the Ship <gap reason="blank" resp="#OXF"/> to paſs with her Company, Paſſengers, Goods, and Merchandizes, without any Let, Hindrance, Seizure, or Moleſtation; The ſaid Ship appearing unto Us by good Teſtimony to belong to the Subjects of Our Sovereign Lord the King, and to no Foreigner. This Paſs to continue in force for one whole year from the date hereof, and no longer.</p>
+            <closer>
+               <dateline>Given under Our Hands and the Seal of Our Office of Admiralty at <gap reason="blank" resp="#OXF"/> 
+                  <date>the <gap reason="blank" resp="#OXF"/> day of <gap reason="blank" resp="#OXF"/> in the year of Our Lord One thouſand ſix hundred ſeventy <gap reason="blank" resp="#OXF"/>
+                  </date>
+               </dateline>
+               <salute>To all Perſons whom theſe may concern.</salute>
+               <signed>By Command of the Lords.</signed>
+            </closer>
+         </div>
+         <div type="regulations">
+            <pb n="28" facs="tcp:135067:19"/>
+            <head>Directions <hi>to</hi> Maſters of Ships <hi>and others concerned, whither to repair for</hi> Paſſes, <hi>in purſuance of the reſpective</hi> Treaties <hi>between</hi> His Majeſty <hi>and his</hi> Allies. Together with the <hi>Fees</hi> payable at the reſpective Places where ſuch <hi>Paſſes</hi> are to be granted.</head>
+            <p>
+               <note place="margin">Denmark</note> PAſſes in purſuance of the Treaty with <hi>Denmark,</hi> for all <hi>Eng<g ref="char:EOLhyphen"/>land, Scotland,</hi> and <hi>Ireland,</hi> and the reſt of His Majeſties Dominions, are to be under His Majeſties Royal Signature, to be procured by the <hi>Secretary of State.</hi>
+            </p>
+            <p>
+               <note place="margin">Mediter<g ref="char:EOLhyphen"/>ranean.</note> Aſſes or <hi>Sea-briefs</hi> in purſuance of the Treaties with <hi>Algiers, Tunis,</hi> and <hi>Tripoly,</hi> are to be had for all <hi>England, Scotland,</hi> and <hi>Ireland,</hi> and the reſt of His Majeſties Dominions, from the Lords Commiſſioners for Executing the Office of Lord High Admiral of <hi>England,</hi> ſitting at <hi>Derby-Houſe.</hi>
+            </p>
+            <p>
+               <note place="margin">Spain.</note> PAſſes in purſuance of the Treaties with <hi>Spain</hi> and the <hi>
+                  <g ref="char:V">Ʋ</g>nited Provinces,</hi> are the ſame word for word.</p>
+            <p>Thoſe Paſſes which concern <hi>Spain</hi> are onely to be had from the Commiſſioners of the Cuſtoms.</p>
+            <p>
+               <note place="margin">Holland.</note> But thoſe relating to <hi>Holland,</hi> may be had either from the Lords Commiſſioners appointed to execute the Office of Lord High Ad<g ref="char:EOLhyphen"/>miral of <hi>England,</hi> or from the Commiſſioners of the Cuſtoms in <hi>London;</hi> and in both theſe Caſes for the Out-Ports from the Chief Magiſtrates in ſuch places in each Out-Port as are appointed by His Majeſties Order in Council of the Tenth inſtant to grant the ſame; which are,</p>
+            <pb n="29" facs="tcp:135067:19"/>
+            <list>
+               <head>LONDON,</head>
+               <item>
+                  <hi>Dover,</hi>
+               </item>
+               <item>
+                  <hi>Rye,</hi>
+               </item>
+               <item>
+                  <hi>Chicheſter,</hi>
+               </item>
+               <item>
+                  <hi>Southampton,</hi>
+               </item>
+               <item>
+                  <hi>Poole,</hi>
+               </item>
+               <item>
+                  <hi>Weymouth,</hi>
+               </item>
+               <item>
+                  <hi>Lime</hi> Regis,</item>
+               <item>
+                  <hi>Exon,</hi>
+               </item>
+               <item>
+                  <hi>Dartmouth,</hi>
+               </item>
+               <item>
+                  <hi>Plymouth,</hi>
+               </item>
+               <item>
+                  <hi>Fowy,</hi>
+               </item>
+               <item>
+                  <hi>Falmouth,</hi>
+               </item>
+               <item>
+                  <hi>Penzance,</hi>
+               </item>
+               <item>
+                  <hi>Barnſtaple,</hi>
+               </item>
+               <item>
+                  <hi>Bridgwater,</hi>
+               </item>
+               <item>
+                  <hi>Minehead,</hi>
+               </item>
+               <item>
+                  <hi>Briſtol</hi> For the Ports of <hi>Briſtol</hi> and <hi>Glouceſter,</hi>
+               </item>
+               <item>
+                  <hi>Swanzey,</hi>
+               </item>
+               <item>
+                  <hi>Milford,</hi>
+               </item>
+               <item>
+                  <hi>Colcheſter,</hi>
+               </item>
+               <item>
+                  <hi>Ipſwich,</hi>
+               </item>
+               <item>
+                  <hi>Yarmouth,</hi>
+               </item>
+               <item>
+                  <hi>Lynn</hi> Regis,</item>
+               <item>
+                  <hi>Boſton,</hi>
+               </item>
+               <item>
+                  <hi>Hull,</hi>
+               </item>
+               <item>
+                  <hi>Stockton,</hi>
+               </item>
+               <item>
+                  <hi>Sunderland,</hi>
+               </item>
+               <item>
+                  <hi>Newcaſtle,</hi>
+               </item>
+               <item>
+                  <hi>Berwick,</hi>
+               </item>
+               <item>
+                  <hi>Whitehaven,</hi>
+               </item>
+               <item>
+                  <hi>Lancaſter,</hi>
+               </item>
+               <item>
+                  <hi>Leverpool,</hi>
+               </item>
+               <item>
+                  <hi>Cheſter,</hi>
+               </item>
+               <item>
+                  <hi>Beaumaris.</hi>
+               </item>
+            </list>
+            <p>
+               <note place="margin">Sweden.</note> PAſſes in purſuance of the Treaty with <hi>Sweden,</hi> are likewiſe to be had in <hi>London</hi> from the Commiſſioners of the Cuſtoms, and in the Out-Ports from the Chief Magiſtrates in ſuch places in each Out-Port as are appointed by the aforeſaid Order to grant Paſſes.</p>
+         </div>
+         <div type="list_of_fees">
+            <pb n="30" facs="tcp:135067:20"/>
+            <list>
+               <head>Fees for Paſſes, Oaths, Certificates, <hi>&amp;c.</hi> to be moderated as followeth.</head>
+               <item>For a Paſs ſigned by His Majeſty, purſuant to the Treaty with <hi>Denmark,</hi> xx <hi>s.</hi>
+               </item>
+               <item>For a Paſs ſigned by the Commiſſioners of the Admiralty xxv <hi>s.</hi>
+               </item>
+            </list>
+            <list>
+               <head>For a Paſs procured at the <hi>Cuſtom-Houſe;</hi> Viz.</head>
+               <item>For the Certificate of the Surveyor of the Navigation ij <hi>s.</hi> vi <hi>d.</hi> xvii <hi>s.</hi> vi <hi>d.</hi>
+               </item>
+               <item>For the Certificate and Oath of the Maſter vi <hi>d.</hi> xvii <hi>s.</hi> vi <hi>d.</hi>
+               </item>
+               <item>For the Paſs in Parchment xii <hi>s.</hi> vi <hi>d.</hi> xvii <hi>s.</hi> vi <hi>d.</hi>
+               </item>
+               <item>For the Bond xii <hi>d.</hi> xvii <hi>s.</hi> vi <hi>d.</hi>
+               </item>
+               <item>For the Search and Regiſtering xii <hi>d.</hi> xvii <hi>s.</hi> vi <hi>d.</hi>
+               </item>
+               <item>For the Certificate from the Lord Mayor of <hi>London,</hi> purſuant to the Treaty with <hi>Denmark</hi> x <hi>s.</hi>
+               </item>
+            </list>
+            <list>
+               <head>For a Paſs procured in the <hi>Out-Ports,</hi> Viz.</head>
+               <item>For the Certificate of the Surveyor of the Navigation ij <hi>s.</hi> vi <hi>d.</hi> x <hi>s.</hi>
+               </item>
+               <item>For the Certificate and Oath of the Maſter vi <hi>d.</hi> x <hi>s.</hi>
+               </item>
+               <item>For the Paſs in Parchment v <hi>s.</hi> x <hi>s.</hi>
+               </item>
+               <item>For the Bond xii <hi>d.</hi> x <hi>s.</hi>
+               </item>
+               <item>For the Search and Regiſtering xii <hi>d.</hi> x <hi>s.</hi>
+               </item>
+               <item>For the Certificate from the Chief Magiſtrate of any of the Out-Ports, in purſuance of the Treaty with <hi>Denmark,</hi> v <hi>s.</hi>
+               </item>
+            </list>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:135067:20"/>
+            <pb facs="tcp:135067:21" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
